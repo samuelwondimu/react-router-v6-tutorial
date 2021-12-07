@@ -5,7 +5,7 @@ export default function App() {
     <div>
       <h1>BookKeeper!</h1>
       <nav style={{ borderBottom: "solid 1px", paddingBottom: "1rem" }}>
-        <Link to="/invoices">Invoices</Link>
+        <Link to="/invoices">Invo hajhaj ices</Link>
         <Link to="/expense">Expenses</Link>
       </nav>
       <Outlet />
